@@ -17,7 +17,7 @@
 
 
 
-![Alt Text]("C:\Users\ranji\Pictures\Screenshots\Screenshot 2024-08-18 220322.png")
+![Alt Text]("Screenshot 2024-08-18 220322.png")
 
 **Happy coding!**
 
