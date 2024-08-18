@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ranjith
 
-BTech AI&DS Student
+**BTech AI&DS Student**
 
-- 🌱 I’m currently learning **Python, Java, and AI/ML**
-- 🛠️ I’m working on **HTML, CSS, and JavaScript** projects
+- 🌱 I’m currently learning **Python, Java, DSA**
+- 🛠️ I’m working on **AI&ML,Webdevelopment** projects
 - 💬 Ask me about **Python, AI/ML, and web development**
 - 🔭 I’m interested in exploring new technologies and enhancing my coding skills
 - 📚 I’m constantly learning and looking for ways to improve
