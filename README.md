@@ -26,10 +26,6 @@
 ### My GeeksforGeeks Profile:
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
 
-![My GeeksforGeeks Profile](https://github.com/Ranjith2703/python-programs/blob/main/Screenshot%202024-08-18%20220322.png)
-
-
-
-                                                       **Happy coding!**
+**Happy coding!**
 
 
