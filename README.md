@@ -11,9 +11,11 @@
 
 
 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
 ranjithkumar-a-456616280
 )
+
 
 ![Alt Text]("C:\Users\ranji\Pictures\Screenshots\Screenshot 2024-08-18 220322.png")
 
