@@ -10,11 +10,10 @@
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
 
 
-📫 How to Reach Me
+## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-ranjithkumar-a-456616280
-)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
+
 
 
 ![Alt Text]("C:\Users\ranji\Pictures\Screenshots\Screenshot 2024-08-18 220322.png")
