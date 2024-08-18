@@ -10,12 +10,12 @@
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
 
 
-GeeksforGeeks: [Your GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/ranjith_a_k/)
-
 📫 How to Reach Me
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
 ranjithkumar-a-456616280
 )
+
+![Alt Text]("C:\Users\ranji\Pictures\Screenshots\Screenshot 2024-08-18 220322.png")
 
 **Happy coding!**
 
