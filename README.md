@@ -17,7 +17,8 @@
 
 
 
-![Alt Text]("Screenshot 2024-08-18 220322.png")
+### My GeeksforGeeks Profile:
+![My GeeksforGeeks Profile](https://github.com/Ranjith2703/python-programs/blob/main/Screenshot%202024-08-18%20220322.png)
 
 **Happy coding!**
 
