@@ -16,7 +16,7 @@
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
 
 ## I code in
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
