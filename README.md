@@ -25,6 +25,8 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
 
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<YOUR_USERNAME>)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
 
