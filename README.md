@@ -25,7 +25,7 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
 
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<YOUR_USERNAME>)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
+<p align="center"> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k" alt="GFG stats"/></a></p>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
