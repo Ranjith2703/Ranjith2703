@@ -41,5 +41,5 @@
 
 [![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-https://api.quotable.io
+
 
