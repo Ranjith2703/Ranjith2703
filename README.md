@@ -12,11 +12,9 @@
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/toxic_kathirx?utm_source=qr&igsh=dWdzMjc3M2U5MGJz)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[<img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30" height="30">](https://twitter.com/YOUR_TWITTER_HANDLE)
+
 
 ## I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
