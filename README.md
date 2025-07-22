@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
 
   ## 🌐 My Portfolio
-[Click here to visit my portfolio](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjith-portfolio.netlify.app)
+
 
 
 
