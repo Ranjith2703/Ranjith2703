@@ -19,11 +19,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
-<a href="https://medium.com/@your_username" target="_blank" style="text-decoration:none;">
-  <span style="border: 1px solid #000; padding: 5px 10px; border-radius: 4px; font-family: Arial; color: black;">
-    Medium
-  </span>
-</a>
+[![Medium](https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your_username)
 
 
 
