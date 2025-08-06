@@ -19,6 +19,8 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_M.png" alt="Medium" width="30" height="30">](https://medium.com/@your_username)
+
 
 
 ## I code in
