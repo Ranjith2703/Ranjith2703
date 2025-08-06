@@ -12,6 +12,7 @@
 ## 🧠 Blog on Medium
 
 I regularly write about personal development, productivity, and mindset shifts on Medium.
+
 [![Medium](https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
 
 
