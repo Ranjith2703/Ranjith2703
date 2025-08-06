@@ -13,18 +13,17 @@
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
 
 
-## 🧠 Self-Improvement Blog on Medium
+## 🧠 Blog on Medium
 
 I regularly write about personal development, productivity, and mindset shifts on Medium.
 
-[![Medium](https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your_username)
+[![Medium](https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
 
 
 ## 📫 How to Reach Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
-[![Medium](https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your_username)
 
 
 
