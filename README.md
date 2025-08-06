@@ -7,16 +7,11 @@
 - 💬 Ask me about **Tech**
 - 🔭 I’m interested in exploring new technologies and enhancing my coding skills
 - 📚 I’m constantly learning and looking for ways to improve
-- ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
-
-  ## 🌐 My Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
-
-
+- ⚡ Fun fact: I love solving coding challenges and learning new programming languages
+- 
 ## 🧠 Blog on Medium
 
 I regularly write about personal development, productivity, and mindset shifts on Medium.
-
 [![Medium](https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
 
 
@@ -24,9 +19,7 @@ I regularly write about personal development, productivity, and mindset shifts o
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
-
-
-
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
 
 
 ## I code in
