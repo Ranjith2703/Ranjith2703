@@ -15,6 +15,7 @@ I regularly write about personal development, productivity, and mindset shifts o
 [![Medium](https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
 
 
+
 ## 📫 How to Reach Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
