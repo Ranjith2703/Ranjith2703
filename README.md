@@ -19,7 +19,13 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="30" height="30">](https://medium.com/@your_username)
+<a href="https://medium.com/@your_username" target="_blank" style="text-decoration:none;">
+  <span style="display: inline-flex; align-items: center; border: 1px solid #000; padding: 5px 10px; border-radius: 5px; font-family: Arial; color: black;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="20" height="20" style="margin-right: 8px;">
+    Medium
+  </span>
+</a>
+
 
 
 
