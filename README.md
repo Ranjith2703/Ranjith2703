@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranjith
+# 👋 Hi, I'm Ranjithkumar 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
 
 **BTech AI&DS Student**
