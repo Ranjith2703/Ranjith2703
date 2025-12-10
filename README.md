@@ -36,8 +36,8 @@ I regularly write about personal development, productivity, and mindset shifts o
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
 
 
+![GFG Stats](https://gfg-stats-card.vercel.app/gfg-stats?username=ranjith_a_k)
 
-<p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k" alt="GFG stats"/></a></p>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
