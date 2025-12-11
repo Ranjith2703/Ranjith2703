@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranjithkumar 
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/f9b70e0a-5fc7-4984-9a36-82c6960f5142" /># 👋 Hi, I'm Ranjithkumar 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
 
 **BTech AI&DS Student**
