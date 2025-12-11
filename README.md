@@ -10,11 +10,17 @@
 - 📚 I’m constantly learning and looking for ways to improve 
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages
 - 
-## 🧠 Blog on Medium
+## 📢 My Content Platforms
 
-I regularly write about personal development, productivity, and mindset shifts on Medium.
+### 📝 **Medium Blog**
+I write about personal development, productivity, and mindset shifts on Medium.
 
-[![Medium](https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
+[![Medium Blog](https://custom-icon-badges.demolab.com/badge/Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
+
+### 📱 **WhatsApp Channel**
+Daily motivation, productivity tips, and mindset insights delivered directly to your WhatsApp.
+
+[![WhatsApp Channel](https://custom-icon-badges.demolab.com/badge/Join_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7K9H30gcfJCnLVKI24)
 
 
 
