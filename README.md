@@ -37,8 +37,7 @@ I regularly write about personal development, productivity, and mindset shifts o
 
 
 ![GFG Stats](https://gfg-stats-card.vercel.app/gfg-stats?username=ranjith_a_k)
-![GFG Problems Solved](https://img.shields.io/badge/GFG-Problems%20Solved-0F9D58?style=for-the-badge&logo=geeksforgeeks)
-![GFG Coding Score](https://img.shields.io/badge/GFG-Coding%20Score-0F9D58?style=for-the-badge&logo=geeksforgeeks)
+
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
