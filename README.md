@@ -39,18 +39,16 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 
 ## My Codingplatforms Profile:
 
-### 🟢 GeeksforGeeks
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/">
+  <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
     <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg.png" width="520"/>
   </a>
 </p>
 
 ---
 
-### 🟡 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
 <p align="center">
