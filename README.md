@@ -51,8 +51,9 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap)
-
+<p align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap)
+</p>
 
 **Happy coding!**
 
