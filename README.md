@@ -39,10 +39,13 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 
 ### My Codingplatforms Profile:
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
 
-
-![GFG Stats](https://gfg-stats-card.vercel.app/gfg-stats?username=ranjith_a_k)
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
+    <img src="gfg.png" width="500">
+  </a>
+</p>
 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
