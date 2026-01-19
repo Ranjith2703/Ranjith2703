@@ -39,21 +39,23 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 
 ### My Codingplatforms Profile:
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
+### 🟢 GeeksforGeeks
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
-    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg.png" width="500">
+  <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/">
+    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg.png" width="520"/>
   </a>
 </p>
 
+---
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
+### 🟡 LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
-
-<!-- <p align="center"> -->
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap)
-<!-- </p> -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap" width="520"/>
+</p>
 
 **Happy coding!**
 
