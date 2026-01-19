@@ -43,7 +43,7 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
-    <img src="gfg.png" width="500">
+    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg.png" width="500">
   </a>
 </p>
 
