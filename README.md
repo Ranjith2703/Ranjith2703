@@ -1,9 +1,4 @@
-<h1>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  <span style="background: linear-gradient(90deg, #00FF9D, #00B4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
-    Ranjithkumar
-  </span>
-</h1>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />Hi I'm Ranjithkumar A
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
 
 **BTech AI&DS Student**
