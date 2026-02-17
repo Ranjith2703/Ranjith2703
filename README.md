@@ -1,123 +1,171 @@
-# 👨‍💻 Ranjithkumar | AI & DS Explorer
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=435&lines=AI+%26+DS+Student;Problem+Solver;Tech+Enthusiast;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjithkumar;AI+%26+DS+Student;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ranjithkumar-a-456616280/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ARanjit06037457">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
+  <a href="https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ranjithkumar-a-456616280/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ARanjit06037457"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://medium.com/@ranjithtamil160"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ranjith2703&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07cf7b34e">
 
 🎓 **BTech Artificial Intelligence & Data Science** Student
 
-🔭 Currently diving deep into:
-- 🐍 Python • ☕ Java • ⚡ DSA
-- 🤖 AI & Machine Learning
-- 🌐 Full Stack Web Development
+🌱 I'm currently learning **Python, C, Java, DSA**
 
-💡 **What drives me:** Turning complex problems into elegant solutions through code
+🛠️ Working on **AI & ML, Web Development** projects
 
-⚡ **Beyond coding:** I solve challenges on LeetCode & GFG daily, and write about tech & personal growth
+💬 Ask me about **Tech, Programming, AI**
 
-🌟 **Fun fact:** I believe every bug is just a feature waiting to be discovered!
+🔭 Interested in exploring new technologies and enhancing coding skills
+
+⚡ Fun fact: I love solving coding challenges and learning new programming languages
+
+📚 Constantly learning and looking for ways to improve
 
 <br clear="right"/>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranjith2703&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
+## 🛠️ **Tech Stack & Tools**
+
+<div align="center">
+  
+### 💻 **Programming Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjith2703&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith2703&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
----
+### 🌐 **Web Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-## 💻 Tech Arsenal
+### 🗄️ **Databases & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github" />
+</p>
 
-<div align="center">
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+### 🔧 **Currently Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <br/>
+  <span>(React, Node.js, Express, MongoDB - Coming Soon)</span>
+</p>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-## 📈 Coding Profiles & Stats
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
-  </a>
-  <a href="https://leetcode.com/u/ranjith_ak/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ranjith2703&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15" width="98%" alt="Trophy" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap" width="49%" alt="LeetCode Stats"/>
-  <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png" width="49%" alt="GFG Stats"/>
-</div>
-
----
-
-## ✍️ Latest Content
-
-<div align="center">
-  <a href="https://medium.com/@ranjithtamil160">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb7K9H30gcfJCnLVKI24">
-    <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
-
 <p align="center">
-  📝 Writing about <b>Tech, Productivity & Personal Growth</b>
-  <br/>
-  📱 Daily motivation & insights on WhatsApp
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranjith2703&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith2703&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith2703&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" width="45%" alt="Top Languages" />
+</p>
 
-## 📊 Weekly Development Breakdown
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ███████████▓░░░░░░░░░   45.2%
-Java         8 hrs 45 mins   ████████▒░░░░░░░░░░░░   32.1%
-DSA          4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   15.8%
-Web Dev      1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░   6.9%
+## 📈 **Coding Profiles**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏆 GeeksforGeeks</h3>
+        <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+        </a>
+        <br/><br/>
+        <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
+          <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png" width="95%" alt="GFG Stats"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ LeetCode</h3>
+        <a href="https://leetcode.com/u/ranjith_ak/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+        </a>
+        <br/><br/>
+        <a href="https://leetcode.com/u/ranjith_ak/">
+          <img src="https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap" width="95%" alt="LeetCode Stats"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📝 **Content Platforms**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📖 Medium Blog</h3>
+        <p>Personal development, productivity, and mindset shifts</p>
+        <a href="https://medium.com/@ranjithtamil160">
+          <img src="https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>📱 WhatsApp Channel</h3>
+        <p>Daily motivation, productivity tips, and mindset insights</p>
+        <a href="https://whatsapp.com/channel/0029Vb7K9H30gcfJCnLVKI24">
+          <img src="https://img.shields.io/badge/Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 🎯 **Current Focus**
+
+```javascript
+const ranjithCurrentFocus = {
+  learning: ["Python", "Java", "DSA", "AI/ML"],
+  workingOn: ["AI & ML Projects", "Web Development"],
+  goals: ["Master DSA", "Build Production-Ready AI Apps", "Grow Community"],
+  dailyRoutine: ["Code", "Solve DSA Problems", "Write Content", "Learn New Tech"],
+  motto: "Consistency beats intensity! 🚀"
+};
+🔥 Activity Graph
+<p align="center"> <a href="https://github.com/Ranjith2703"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph"/> </a> </p><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> </div>
+📌 Featured Projects
+<p align="center"> <a href="https://github.com/Ranjith2703?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Projects-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/> </a> </p><div align="center"> <i>🚧 More exciting projects are on the way! Check back soon 🚧</i> </div><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> </div>
+📫 Let's Connect!
+<div align="center"> <a href="https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio"> <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> <a href="https://www.linkedin.com/in/ranjithkumar-a-456616280/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/ARanjit06037457"> <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> <a href="https://medium.com/@ranjithtamil160"> <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a> <a href="mailto:ranjithtamil160@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+<div align="center"> <h3>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random Dev Quote"/> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> </div><p align="center"> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768785b3775286b8ab7fe2b/bottom_header.svg" alt="Footer" /> </p><p align="center"> ⭐ <strong>Happy Coding! Keep Learning, Keep Growing!</strong> ⭐ </p><p align="center"> <i>Last Edited on: February 2026</i> </p> ```
