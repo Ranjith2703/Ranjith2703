@@ -130,17 +130,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
-
-## 🎯 **Current Focus**
-
-```javascript
-const ranjithCurrentFocus = {
-  learning: ["Python", "Java", "DSA", "AI/ML"],
-  workingOn: ["AI & ML Projects", "Web Development"],
-  goals: ["Master DSA", "Build Production-Ready AI Apps", "Grow Community"],
-  dailyRoutine: ["Code", "Solve DSA Problems", "Write Content", "Learn New Tech"],
-  motto: "Consistency beats intensity! 🚀"
-};
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -161,7 +150,20 @@ const ranjithCurrentFocus = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=100&color=FFA116&center=true&vCenter=true&width=600&lines=Stay+Hard+%F0%9F%94%A5;One+Day+or+Day+One+%E2%8C%9B;Never+Give+Up+%F0%9F%92%AA;Die+With+Memories%2C+Not+Dreams+%F0%9F%8C%85;Discipline+%3E+Motivation+%E2%9A%A1" alt="Motivation Quotes" />
 </div>
+
+## 🎯 **Current Focus**
+
+```javascript
+const ranjithCurrentFocus = {
+  learning: ["Python", "Java", "DSA", "AI/ML"],
+  workingOn: ["AI & ML Projects", "Web Development"],
+  goals: ["Master DSA", "Build Production-Ready AI Apps", "Grow Community"],
+  dailyRoutine: ["Code", "Solve DSA Problems", "Write Content", "Learn New Tech"],
+  motto: "Consistency beats intensity! 🚀"
+};
+
+
+
