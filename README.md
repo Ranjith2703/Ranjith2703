@@ -44,7 +44,6 @@
   <img src="https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap" width="520"/>
 </p>
 
-**Happy coding!**
 
 ## 📢 My Content Platforms
 
