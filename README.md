@@ -10,18 +10,6 @@
 - 📚 I’m constantly learning and looking for ways to improve 
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages
   
-## 📢 My Content Platforms
-
-### 📝 **Medium Blog**
-I write about personal development, productivity, and mindset shifts on Medium.
-
-[![Medium Blog](https://custom-icon-badges.demolab.com/badge/Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
-
-### 📱 **WhatsApp Channel**
-Daily motivation, productivity tips, and mindset insights delivered directly to your WhatsApp.
-
-[![WhatsApp Channel](https://custom-icon-badges.demolab.com/badge/Join_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7K9H30gcfJCnLVKI24)
-
 
 
 ## 📫 How to Reach Me
@@ -57,6 +45,18 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 </p>
 
 **Happy coding!**
+
+## 📢 My Content Platforms
+
+### 📝 **Medium Blog**
+I write about personal development, productivity, and mindset shifts on Medium.
+
+[![Medium Blog](https://custom-icon-badges.demolab.com/badge/Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
+
+### 📱 **WhatsApp Channel**
+Daily motivation, productivity tips, and mindset insights delivered directly to your WhatsApp.
+
+[![WhatsApp Channel](https://custom-icon-badges.demolab.com/badge/Join_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7K9H30gcfJCnLVKI24)
 
 
 [![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
