@@ -58,9 +58,6 @@
 </p>
 
 
-
-
-
 ## 📈 **Coding Profiles**
 
 <div align="center">
