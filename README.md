@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 <span style="color: #00FF9D;">𝐑𝐚𝐧𝐣𝐢𝐭𝐡𝐤𝐮𝐦𝐚𝐫</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1&pause=1000&color=00FF9D&center=true&vCenter=true&repeat=false&width=435&lines=Ranjithkumar" alt="Ranjithkumar" />
+</h1>
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithkumar37.neocities.org/portfolio_ranjith/portfolio)
 
 **BTech AI&DS Student**
