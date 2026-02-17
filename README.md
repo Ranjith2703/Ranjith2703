@@ -54,20 +54,10 @@
 
 ### 🗄️ **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,neocities" />
 </p>
 
-### 🔧 **Currently Learning**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-  <br/>
-  <span>(React, Node.js, Express, MongoDB - Coming Soon)</span>
-</p>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
 
 
 
