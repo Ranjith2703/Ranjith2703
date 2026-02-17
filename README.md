@@ -60,3 +60,8 @@ Daily motivation, productivity tips, and mindset insights delivered directly to 
 
 
 [![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=100&color=FFA116&center=true&vCenter=true&width=600&lines=Stay+Hard+%F0%9F%94%A5;One+Day+or+Day+One+%E2%8C%9B;Never+Give+Up+%F0%9F%92%AA;Die+With+Memories%2C+Not+Dreams+%F0%9F%8C%85;Discipline+%3E+Motivation+%E2%9A%A1" alt="Motivation Quotes" />
+</div>
+
