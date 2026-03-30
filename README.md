@@ -33,11 +33,7 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity">
-    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png" width="520"/>
-  </a>
-</p>
+![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k)
 
 ---
 
