@@ -34,7 +34,9 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k" width="520"/>
+  <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&style=for-the-badge"/>
+  </a>
 </p>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
