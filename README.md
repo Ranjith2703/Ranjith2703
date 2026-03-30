@@ -33,9 +33,8 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
 
-![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k)
+(https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k)
 
----
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
