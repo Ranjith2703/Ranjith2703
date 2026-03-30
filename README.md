@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/">
-    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png"/>
+    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png" width="520"/>
   </a>
 </p>
 
