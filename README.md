@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />Hi I'm Ranjithkumar A
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithak.netlify.app/)
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ranjith2703)
 
 
