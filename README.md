@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&style=for-the-badge"/>
+    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png"/>
   </a>
 </p>
 
