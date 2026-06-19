@@ -31,6 +31,16 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="50"/>
 
+## My Tools & Platforms
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT"/>
+  <img width="48" height="48" src="https://cdn.simpleicons.org/claude/F97316" alt="Claude"/>
+  <!-- <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Google_Antigravity_Logo.svg" alt="Antigravity"/> -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/netlify.png" alt="Netlify"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+</p>
+
 ## My Codingplatforms Profile:
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
